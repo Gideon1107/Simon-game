@@ -1,4 +1,4 @@
-The Simon Game
+**`The Simon Game`**
 
 Game Instruction:
 The Game start with by flashing a colour (e.g blue). The player must click on the blue button that flashed.
